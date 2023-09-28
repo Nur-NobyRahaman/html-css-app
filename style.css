@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.navItems{
+    display: flex;
+    gap: 10px;
+
+}
+li{
+    list-style-type: none;
+}
